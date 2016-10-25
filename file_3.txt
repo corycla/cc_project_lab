@@ -1,3 +1,6 @@
 numero 1
 number deux
 numero tres
+numero nelja
+numera viisi
+numero kuusi
