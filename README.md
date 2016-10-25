@@ -1,0 +1,3 @@
+# cc_project_lab
+First Repo
+Awesomeness coming...
